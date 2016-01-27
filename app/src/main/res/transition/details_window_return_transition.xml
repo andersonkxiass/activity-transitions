@@ -8,14 +8,5 @@
             <target android:excludeId="@android:id/navigationBarBackground" />
         </targets>
     </fade>
-    <slide android:slideEdge="top">
-        <targets>
-            <target android:targetId="@id/details_header_container" />
-        </targets>
-    </slide>
-    <slide android:slideEdge="bottom">
-        <targets>
-            <target android:targetId="@id/details_text_container" />
-        </targets>
-    </slide>
+
 </transitionSet>

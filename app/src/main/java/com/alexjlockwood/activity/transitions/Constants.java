@@ -24,17 +24,6 @@ final class Constants {
             "The King of Limbs",
     };
 
-    public static final String[] BACKGROUND_IMAGE_URLS = {
-            "http://i.imgur.com/tWL3mUP.jpg",
-            "http://i.imgur.com/Yt898e7.jpg",
-            "http://i.imgur.com/AhCOaqV.jpg",
-            "http://i.imgur.com/EpzQzq0.jpg",
-            "http://i.imgur.com/wdI7zrx.jpg",
-            "http://i.imgur.com/Hxe0H5l.jpg",
-            "http://i.imgur.com/dFTiB6W.jpg",
-            "http://i.imgur.com/E9Zeuff.jpg",
-    };
-
     private Constants() {
         // This utility class should not be instantiated.
     }
